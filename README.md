@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Mohammed Owais (@MRSE435)
 
 ## 👀 About Me
-- 🌱 I’m currently learning **Java** and **Data Structures & Algorithms (DSA)**  
 - 💻 Interested in **Cybersecurity, Programming, and Full-Stack Development**  
 - 🎯 Goal: To become a skilled **Software Developer** & **Cybersecurity Expert**  
 - ⚡ Fun fact: I love building projects that solve real-world problems  
