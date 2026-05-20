@@ -40,8 +40,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **m54655967@gmail.com**  
-- 🔗 LinkedIn: *[add LinkedIn profile]*  
-- 🌍 Portfolio: *[add portfolio link if available]*  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/mohammed-owais-66053a2a0/*  
+- 🌍 Portfolio: *https://mrse435.world/portfolio*  
 
 ---
 
